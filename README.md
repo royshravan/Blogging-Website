@@ -32,8 +32,6 @@
 ![Home Page](application_images/vkbbloghome.png)
 ## Edit a Post
 ![Edit a Post](application_images/vkbblogeditpost.png)
-## Create a Post
-![Create a Post](application_images/vkbblogcreatepost.png)
 ## ALL Science Post
 ![ALL Science Post](application_images/vkbblogallscience.png)
 ## Single Science Post
