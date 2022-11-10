@@ -30,8 +30,6 @@
 ![Register_Page](application_images/vkbblogregister.png)
 ## Home page
 ![Home Page](application_images/vkbbloghome.png)
-## Edit a Post
-![Edit a Post](application_images/vkbblogeditpost.png)
 ## ALL Science Post
 ![ALL Science Post](application_images/vkbblogallscience.png)
 ## Single Science Post
